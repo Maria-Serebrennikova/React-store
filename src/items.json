@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0",
+    "title": "Костюм на флисе",
+    "heights": [164, 174, 186],
+    "imageUrl": "https://sun9-56.userapi.com/impf/1uf4MrZyDjMwwn-Q01Qez6Y8y1oTgy4TBoJ1uQ/LHC1uXiwkzs.jpg?size=402x604&quality=96&sign=04455ec73bf6538cfb97aa9cd920e301&type=album",
+    "price": "4500 рублей"
+  },
+  {
+    "id": "1",
+    "title": "Костюм трехнитка",
+    "heights": [164, 174, 186],
+    "imageUrl": "https://avatars.mds.yandex.net/i?id=98650bcedd4b6a55fcfb43b1e4cd91dc-5384017-images-thumbs&n=13",
+    "price": "3850 рублей"
+  },
+  {
+    "id": "2",
+    "title": "Комбинезон трехнитка",
+    "heights": [164, 174, 186],
+    "imageUrl": "https://rikami.ru/assets/images/products/535/parnyie-kombinezonyi-krasnyie.jpg",
+    "price": "5550 рублей"
+  }
+]
